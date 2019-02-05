@@ -1,6 +1,7 @@
 # myself
 
 ---
+---?image=resource/img/風の預言者.jpg
 # 生い立ち
 
 
