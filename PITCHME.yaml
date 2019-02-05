@@ -1,6 +1,8 @@
+# Layout
+layout : center-left
+
 #テーマの設定
 theme : sky
-
 
 #トランジションの設定 
 transition : fade
