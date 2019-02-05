@@ -11,8 +11,9 @@
 
 
 ---
-# 学生時代[north span-100 headline]
-
+@snap[north span-100 headline]
+# 学生時代
+@snapend
 
 ---
 # 職歴
@@ -25,7 +26,11 @@
 SI、IT技術コンサル、Tableau...
 
 ---
-# 趣味[north span-100 headline]
+
+@snap[north span-100 headline]
+# 趣味
+@snapend
+
 - 映画鑑賞 |
 - 部屋のインテリア |
 - 乃木坂 |
