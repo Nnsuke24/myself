@@ -2,6 +2,9 @@
 
 ---
 ---?image=resource/img/風の預言者.png
+
+![Logo](resource/img/風の預言者.png)
+
 # 生い立ち
 
 
